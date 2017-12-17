@@ -16,7 +16,7 @@ int main()
 
 	string data[COLUMNS];
 
-	ifstream inputFile("day5input.txt");
+	ifstream inputFile("day6input.txt");
 
 	int values[ROWS];
 
